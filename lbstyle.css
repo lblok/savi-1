@@ -1,13 +1,28 @@
 body {
-  background-color: #c7e9c0;
+  background-color: #abcdef
 }
 
 
-h2 {
+h1 {
   font-family: Verdana;
   font-weight: bold;
-  text-align: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  color: #acd1b2;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  color: #5500ff;
+  font-size: 20px;
 }
+
+.class1{
+	font-family: verdana;
+	font-size: 14px;
+	color: #ffffff;
+	  position: fixed;
+margin: 5%;
+padding: 80px; 
+	background-color: #ff511a
+}
+
+
+
+
